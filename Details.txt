@@ -1,0 +1,1 @@
+I have included a python file which detects fire using pretrained yolo model. I have not included the code for yolo model training as I have worked as a team and have trained the model on our dataset.
